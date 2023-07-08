@@ -44,7 +44,6 @@ with st.expander('Statistics'):
     sns.histplot(np.random.randn(100), ax=ax)
     st.pyplot(fig)
 
-#User Info
 with st.expander('User Profile'):
     col1, col2 = st.columns(2)
     col1.text_input('Name:')
