@@ -1,4 +1,4 @@
-* pass (token):  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 *
+
 
 # SSH SET
 * ssh-keygen -t ed25519 -C "nimaeslami206@gmail.com" * # ssh key set
